@@ -2,7 +2,7 @@ Web Application Architecture BLOG
 ====================================
 
 Semplice blog scritto in Ruby on Rails, come descritto nel
-corso MOOC https://class.coursera.org/webapplications-002
+corso MOOC https://www.coursera.org/course/webapplications
 
 Funzioni principali
 --------------------
